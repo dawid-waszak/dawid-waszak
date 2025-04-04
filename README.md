@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: <b>childhood</b><br>📚 I'm currently learning: <b>React + Node.js</b><br>🎯 Goals: <b>Get a job as a front-end</b><br>🎲 Fun fact: <b>I've got leg injury during handstand :D</b></p>
+<p align="left">✨ Creating bugs since: <b>childhood</b><br>📚 I'm currently learning: <b>React + Node.js</b><br>🎯 Goals: <b>Get a job as a front-end/full stack developer</b><br>🎲 Fun fact: <b>I've got leg injury during handstand :D</b></p>
 
 ###
 
